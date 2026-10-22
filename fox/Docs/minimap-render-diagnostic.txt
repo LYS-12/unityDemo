@@ -1,0 +1,1 @@
+rect=(x:-120.00, y:-120.00, width:240.00, height:240.00), anchored=(0.00, 0.00), player icon=(0.00, 0.00), footprint lines=4

@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "path": "Assets/_Project/Prefabs/Counters/ClearCounter.prefab",
+      "guid": "01a2813569e6d9e44b7ca8a18ddd3794",
+      "originalPath": "Assets/Prefabs/Counters/ClearCounter.prefab",
+      "reason": "整理前备份已包含该嵌套引用，原资源集合中没有此 GUID。保留资产，等待找回原来源。"
+    },
+    {
+      "path": "Assets/_Project/Prefabs/Items/butterfly 1.prefab",
+      "guid": "5328f4d2c0f5d1340b0ec29b6b629774",
+      "originalPath": "Assets/Prefabs/Models/butterfly 1.prefab",
+      "reason": "整理前备份已包含该嵌套引用，原资源集合中没有此 GUID。保留资产，等待找回原来源。"
+    }
+  ]
+}

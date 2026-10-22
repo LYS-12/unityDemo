@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="34" result="Passed" total="34" passed="34" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-10-22 10:18:02Z" end-time="2026-10-22 10:18:22Z" duration="19.9649257">
+  <test-suite type="TestSuite" id="1000" name="fox" fullname="fox" runstate="Runnable" testcasecount="34" result="Passed" start-time="2026-10-22 10:18:02Z" end-time="2026-10-22 10:18:22Z" duration="19.964926" total="34" passed="34" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1046" name="Assembly-CSharp-Editor.dll" fullname="D:/Desktop/WUgame/GitHubUnityDemo/fox/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" runstate="Runnable" testcasecount="34" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:22Z" duration="19.186212" total="34" passed="34" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="33024" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+      </properties>
+      <test-suite type="TestSuite" id="1047" name="FoxProject" fullname="FoxProject" runstate="Runnable" testcasecount="34" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:22Z" duration="19.184584" total="34" passed="34" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1048" name="Tests" fullname="FoxProject.Tests" runstate="Runnable" testcasecount="34" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:22Z" duration="19.183509" total="34" passed="34" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1008" name="ForestPartyIntegrationTests" fullname="FoxProject.Tests.ForestPartyIntegrationTests" classname="FoxProject.Tests.ForestPartyIntegrationTests" runstate="Runnable" testcasecount="4" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:03Z" duration="0.007789" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1012" name="AllThreeEscortsUseNavigationAndWaitWhenPlayerRunsTooFar" fullname="FoxProject.Tests.ForestPartyIntegrationTests.AllThreeEscortsUseNavigationAndWaitWhenPlayerRunsTooFar" methodname="AllThreeEscortsUseNavigationAndWaitWhenPlayerRunsTooFar" classname="FoxProject.Tests.ForestPartyIntegrationTests" runstate="Runnable" seed="524716930" result="Passed" start-time="2026-10-22 10:16:48Z" end-time="2026-10-22 10:16:57Z" duration="8.922823" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="180000" />
+              </properties>
+            </test-case>
+            <test-case id="1010" name="DialogueGroupEscortRescueInterruptAndCinematicLifecycle" fullname="FoxProject.Tests.ForestPartyIntegrationTests.DialogueGroupEscortRescueInterruptAndCinematicLifecycle" methodname="DialogueGroupEscortRescueInterruptAndCinematicLifecycle" classname="FoxProject.Tests.ForestPartyIntegrationTests" runstate="Runnable" seed="1265573791" result="Passed" start-time="2026-10-22 10:16:57Z" end-time="2026-10-22 10:17:12Z" duration="14.967623" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="180000" />
+              </properties>
+            </test-case>
+            <test-case id="1011" name="NaturalIntroEndAndSceneExitMidReunionRestoreState" fullname="FoxProject.Tests.ForestPartyIntegrationTests.NaturalIntroEndAndSceneExitMidReunionRestoreState" methodname="NaturalIntroEndAndSceneExitMidReunionRestoreState" classname="FoxProject.Tests.ForestPartyIntegrationTests" runstate="Runnable" seed="1105143241" result="Passed" start-time="2026-10-22 10:17:12Z" end-time="2026-10-22 10:17:20Z" duration="7.793111" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="180000" />
+              </properties>
+            </test-case>
+            <test-case id="1009" name="TitleMainButtonMixerMinimapAndGhostAnimationWorkTogether" fullname="FoxProject.Tests.ForestPartyIntegrationTests.TitleMainButtonMixerMinimapAndGhostAnimationWorkTogether" methodname="TitleMainButtonMixerMinimapAndGhostAnimationWorkTogether" classname="FoxProject.Tests.ForestPartyIntegrationTests" runstate="Runnable" seed="1907706974" result="Passed" start-time="2026-10-22 10:17:20Z" end-time="2026-10-22 10:17:27Z" duration="6.992109" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="180000" />
+              </properties>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1001" name="FoxEscortStateTests" fullname="FoxProject.Tests.FoxEscortStateTests" classname="FoxProject.Tests.FoxEscortStateTests" runstate="Runnable" testcasecount="6" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:03Z" duration="0.001413" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1003" name="ApologyOnlyCompletesOnceAndSupportsWaitingThenFollowing" fullname="FoxProject.Tests.FoxEscortStateTests.ApologyOnlyCompletesOnceAndSupportsWaitingThenFollowing" methodname="ApologyOnlyCompletesOnceAndSupportsWaitingThenFollowing" classname="FoxProject.Tests.FoxEscortStateTests" runstate="Runnable" seed="2109611653" result="Passed" start-time="2026-10-22 10:17:27Z" end-time="2026-10-22 10:17:27Z" duration="0.003306" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1005" name="ArrivalIsDistanceCheckedAndSubmittedOnlyOnce" fullname="FoxProject.Tests.FoxEscortStateTests.ArrivalIsDistanceCheckedAndSubmittedOnlyOnce" methodname="ArrivalIsDistanceCheckedAndSubmittedOnlyOnce" classname="FoxProject.Tests.FoxEscortStateTests" runstate="Runnable" seed="1255139340" result="Passed" start-time="2026-10-22 10:17:27Z" end-time="2026-10-22 10:17:27Z" duration="0.000753" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1004" name="DownedFoxCannotArriveAndRescueRestoresPriorEscortState" fullname="FoxProject.Tests.FoxEscortStateTests.DownedFoxCannotArriveAndRescueRestoresPriorEscortState" methodname="DownedFoxCannotArriveAndRescueRestoresPriorEscortState" classname="FoxProject.Tests.FoxEscortStateTests" runstate="Runnable" seed="619686288" result="Passed" start-time="2026-10-22 10:17:27Z" end-time="2026-10-22 10:17:27Z" duration="0.000785" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1006" name="FriendlyAttacksAndPausedDamageCannotHurtEscort" fullname="FoxProject.Tests.FoxEscortStateTests.FriendlyAttacksAndPausedDamageCannotHurtEscort" methodname="FriendlyAttacksAndPausedDamageCannotHurtEscort" classname="FoxProject.Tests.FoxEscortStateTests" runstate="Runnable" seed="1582811522" result="Passed" start-time="2026-10-22 10:17:27Z" end-time="2026-10-22 10:17:27Z" duration="0.000332" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1007" name="NearestTargetDropsDownedAndArrivedCompanions" fullname="FoxProject.Tests.FoxEscortStateTests.NearestTargetDropsDownedAndArrivedCompanions" methodname="NearestTargetDropsDownedAndArrivedCompanions" classname="FoxProject.Tests.FoxEscortStateTests" runstate="Runnable" seed="423792621" result="Passed" start-time="2026-10-22 10:17:27Z" end-time="2026-10-22 10:17:27Z" duration="0.001061" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1002" name="UnfoundAndArrivedFoxesAreProtectedAndNeverValidEnemyTargets" fullname="FoxProject.Tests.FoxEscortStateTests.UnfoundAndArrivedFoxesAreProtectedAndNeverValidEnemyTargets" methodname="UnfoundAndArrivedFoxesAreProtectedAndNeverValidEnemyTargets" classname="FoxProject.Tests.FoxEscortStateTests" runstate="Runnable" seed="1398555533" result="Passed" start-time="2026-10-22 10:17:27Z" end-time="2026-10-22 10:17:27Z" duration="0.000363" asserts="0">
+              <properties />
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1025" name="GameplayIntegrationTests" fullname="FoxProject.Tests.GameplayIntegrationTests" classname="FoxProject.Tests.GameplayIntegrationTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:03Z" duration="0.000378" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1027" name="EnemyNavigationActiveAttackContactAndAliveLimit" fullname="FoxProject.Tests.GameplayIntegrationTests.EnemyNavigationActiveAttackContactAndAliveLimit" methodname="EnemyNavigationActiveAttackContactAndAliveLimit" classname="FoxProject.Tests.GameplayIntegrationTests" runstate="Runnable" seed="1281291748" result="Passed" start-time="2026-10-22 10:17:27Z" end-time="2026-10-22 10:17:43Z" duration="15.550619" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="180000" />
+              </properties>
+            </test-case>
+            <test-case id="1026" name="RealInputsInventoryEffectsPoolingCrossSceneAndRetry" fullname="FoxProject.Tests.GameplayIntegrationTests.RealInputsInventoryEffectsPoolingCrossSceneAndRetry" methodname="RealInputsInventoryEffectsPoolingCrossSceneAndRetry" classname="FoxProject.Tests.GameplayIntegrationTests" runstate="Runnable" seed="718812894" result="Passed" start-time="2026-10-22 10:17:43Z" end-time="2026-10-22 10:17:59Z" duration="16.915393" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="240000" />
+              </properties>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1013" name="GameplayModelTests" fullname="FoxProject.Tests.GameplayModelTests" classname="FoxProject.Tests.GameplayModelTests" runstate="Runnable" testcasecount="10" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:03Z" duration="0.001082" total="10" passed="10" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1020" name="DeathIsOnlyRaisedOnceAndRetryCreatesFreshState" fullname="FoxProject.Tests.GameplayModelTests.DeathIsOnlyRaisedOnceAndRetryCreatesFreshState" methodname="DeathIsOnlyRaisedOnceAndRetryCreatesFreshState" classname="FoxProject.Tests.GameplayModelTests" runstate="Runnable" seed="1790046998" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.003247" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1015" name="EquipStowDoesNotDuplicateAndThreeUsesRemoveOnlyOneInstance" fullname="FoxProject.Tests.GameplayModelTests.EquipStowDoesNotDuplicateAndThreeUsesRemoveOnlyOneInstance" methodname="EquipStowDoesNotDuplicateAndThreeUsesRemoveOnlyOneInstance" classname="FoxProject.Tests.GameplayModelTests" runstate="Runnable" seed="675786500" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.000685" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1021" name="PauseOwnersDoNotUnpauseEachOther" fullname="FoxProject.Tests.GameplayModelTests.PauseOwnersDoNotUnpauseEachOther" methodname="PauseOwnersDoNotUnpauseEachOther" classname="FoxProject.Tests.GameplayModelTests" runstate="Runnable" seed="2094387857" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.000274" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1014" name="SeedIsTwelveIndependentItemsAndEnsureDoesNotReseed" fullname="FoxProject.Tests.GameplayModelTests.SeedIsTwelveIndependentItemsAndEnsureDoesNotReseed" methodname="SeedIsTwelveIndependentItemsAndEnsureDoesNotReseed" classname="FoxProject.Tests.GameplayModelTests" runstate="Runnable" seed="1320065835" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.001134" asserts="0">
+              <properties />
+            </test-case>
+            <test-suite type="ParameterizedMethod" id="1024" name="SharedBallisticsLandAtClampedGroundTarget" fullname="FoxProject.Tests.GameplayModelTests.SharedBallisticsLandAtClampedGroundTarget" classname="FoxProject.Tests.GameplayModelTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:03Z" duration="0.000321" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1022" name="SharedBallisticsLandAtClampedGroundTarget(5.0f)" fullname="FoxProject.Tests.GameplayModelTests.SharedBallisticsLandAtClampedGroundTarget(5.0f)" methodname="SharedBallisticsLandAtClampedGroundTarget" classname="FoxProject.Tests.GameplayModelTests" runstate="Runnable" seed="2140772254" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.000949" asserts="0">
+                <properties />
+              </test-case>
+              <test-case id="1023" name="SharedBallisticsLandAtClampedGroundTarget(12.0f)" fullname="FoxProject.Tests.GameplayModelTests.SharedBallisticsLandAtClampedGroundTarget(12.0f)" methodname="SharedBallisticsLandAtClampedGroundTarget" classname="FoxProject.Tests.GameplayModelTests" runstate="Runnable" seed="1643117909" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.000212" asserts="0">
+                <properties />
+              </test-case>
+            </test-suite>
+            <test-case id="1018" name="ShieldsBlockFullAttacksAndProtectionPreventsExtraChargeLoss" fullname="FoxProject.Tests.GameplayModelTests.ShieldsBlockFullAttacksAndProtectionPreventsExtraChargeLoss" methodname="ShieldsBlockFullAttacksAndProtectionPreventsExtraChargeLoss" classname="FoxProject.Tests.GameplayModelTests" runstate="Runnable" seed="1181213993" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.000388" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1019" name="SpeedRefreshesWithoutStackingAndExpires" fullname="FoxProject.Tests.GameplayModelTests.SpeedRefreshesWithoutStackingAndExpires" methodname="SpeedRefreshesWithoutStackingAndExpires" classname="FoxProject.Tests.GameplayModelTests" runstate="Runnable" seed="1012789103" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.000997" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1016" name="ThrowRemovalConsumesEntireItemWithRemainingDurability" fullname="FoxProject.Tests.GameplayModelTests.ThrowRemovalConsumesEntireItemWithRemainingDurability" methodname="ThrowRemovalConsumesEntireItemWithRemainingDurability" classname="FoxProject.Tests.GameplayModelTests" runstate="Runnable" seed="2145990174" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.000335" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1017" name="TomatoGrowsCapacityAndHealthAndCapsAtTen" fullname="FoxProject.Tests.GameplayModelTests.TomatoGrowsCapacityAndHealthAndCapsAtTen" methodname="TomatoGrowsCapacityAndHealthAndCapsAtTen" classname="FoxProject.Tests.GameplayModelTests" runstate="Runnable" seed="29229801" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.000392" asserts="0">
+              <properties />
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1028" name="ItemTransferTests" fullname="FoxProject.Tests.ItemTransferTests" classname="FoxProject.Tests.ItemTransferTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:03Z" duration="0.000275" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1031" name="MissingHoldPointNullAndSelfTransfersKeepSourceIntact" fullname="FoxProject.Tests.ItemTransferTests.MissingHoldPointNullAndSelfTransfersKeepSourceIntact" methodname="MissingHoldPointNullAndSelfTransfersKeepSourceIntact" classname="FoxProject.Tests.ItemTransferTests" runstate="Runnable" seed="533296226" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.001506" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1030" name="OccupiedTargetDoesNotLoseEitherItem" fullname="FoxProject.Tests.ItemTransferTests.OccupiedTargetDoesNotLoseEitherItem" methodname="OccupiedTargetDoesNotLoseEitherItem" classname="FoxProject.Tests.ItemTransferTests" runstate="Runnable" seed="739258810" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.000365" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1029" name="TransferUpdatesBothOwnersAndParentInBothDirections" fullname="FoxProject.Tests.ItemTransferTests.TransferUpdatesBothOwnersAndParentInBothDirections" methodname="TransferUpdatesBothOwnersAndParentInBothDirections" classname="FoxProject.Tests.ItemTransferTests" runstate="Runnable" seed="882568976" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.001231" asserts="0">
+              <properties />
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="1032" name="JsonDataStoreTests" fullname="FoxProject.Tests.JsonDataStoreTests" classname="FoxProject.Tests.JsonDataStoreTests" runstate="Runnable" testcasecount="8" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:03Z" duration="0.000832" total="8" passed="8" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-suite type="ParameterizedMethod" id="1038" name="CorruptSaveFallsBackToDefaults" fullname="FoxProject.Tests.JsonDataStoreTests.CorruptSaveFallsBackToDefaults" classname="FoxProject.Tests.JsonDataStoreTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:03Z" duration="0.000138" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1036" name="CorruptSaveFallsBackToDefaults(LitJson)" fullname="FoxProject.Tests.JsonDataStoreTests.CorruptSaveFallsBackToDefaults(LitJson)" methodname="CorruptSaveFallsBackToDefaults" classname="FoxProject.Tests.JsonDataStoreTests" runstate="Runnable" seed="296201324" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.040742" asserts="0">
+                <properties />
+                <output><![CDATA[无法读取 JSON：C:/Users/31083/AppData/LocalLow/DefaultCompany/fox\fox_regression_0f0f6a25958c47889e54395d3b7965ec.json。Invalid character 'b' in input string
+]]></output>
+              </test-case>
+              <test-case id="1037" name="CorruptSaveFallsBackToDefaults(JsonUtility)" fullname="FoxProject.Tests.JsonDataStoreTests.CorruptSaveFallsBackToDefaults(JsonUtility)" methodname="CorruptSaveFallsBackToDefaults" classname="FoxProject.Tests.JsonDataStoreTests" runstate="Runnable" seed="1811929362" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:17:59Z" duration="0.008024" asserts="0">
+                <properties />
+                <output><![CDATA[无法读取 JSON：C:/Users/31083/AppData/LocalLow/DefaultCompany/fox\fox_regression_fdcd3f848ef64b50afa0dfc136828299.json。JSON parse error: Missing a name for object member.
+]]></output>
+              </test-case>
+            </test-suite>
+            <test-suite type="ParameterizedMethod" id="1043" name="DirectoryNamesAreRejected" fullname="FoxProject.Tests.JsonDataStoreTests.DirectoryNamesAreRejected" classname="FoxProject.Tests.JsonDataStoreTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:03Z" duration="0.000155" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1040" name="DirectoryNamesAreRejected(&quot;../outside&quot;)" fullname="FoxProject.Tests.JsonDataStoreTests.DirectoryNamesAreRejected(&quot;../outside&quot;)" methodname="DirectoryNamesAreRejected" classname="FoxProject.Tests.JsonDataStoreTests" runstate="Runnable" seed="1566492495" result="Passed" start-time="2026-10-22 10:17:59Z" end-time="2026-10-22 10:18:00Z" duration="0.003791" asserts="0">
+                <properties />
+              </test-case>
+              <test-case id="1041" name="DirectoryNamesAreRejected(&quot;sub/file&quot;)" fullname="FoxProject.Tests.JsonDataStoreTests.DirectoryNamesAreRejected(&quot;sub/file&quot;)" methodname="DirectoryNamesAreRejected" classname="FoxProject.Tests.JsonDataStoreTests" runstate="Runnable" seed="94609792" result="Passed" start-time="2026-10-22 10:18:00Z" end-time="2026-10-22 10:18:00Z" duration="0.002610" asserts="0">
+                <properties />
+              </test-case>
+              <test-case id="1042" name="DirectoryNamesAreRejected(&quot;sub\\file&quot;)" fullname="FoxProject.Tests.JsonDataStoreTests.DirectoryNamesAreRejected(&quot;sub\\file&quot;)" methodname="DirectoryNamesAreRejected" classname="FoxProject.Tests.JsonDataStoreTests" runstate="Runnable" seed="1836109778" result="Passed" start-time="2026-10-22 10:18:00Z" end-time="2026-10-22 10:18:00Z" duration="0.002576" asserts="0">
+                <properties />
+              </test-case>
+            </test-suite>
+            <test-case id="1039" name="MissingFilesReturnNewData" fullname="FoxProject.Tests.JsonDataStoreTests.MissingFilesReturnNewData" methodname="MissingFilesReturnNewData" classname="FoxProject.Tests.JsonDataStoreTests" runstate="Runnable" seed="1477905424" result="Passed" start-time="2026-10-22 10:18:00Z" end-time="2026-10-22 10:18:00Z" duration="0.003271" asserts="0">
+              <properties />
+            </test-case>
+            <test-suite type="ParameterizedMethod" id="1035" name="SavedDataTakesPriorityOverDefaultData" fullname="FoxProject.Tests.JsonDataStoreTests.SavedDataTakesPriorityOverDefaultData" classname="FoxProject.Tests.JsonDataStoreTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:03Z" duration="0.000125" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1033" name="SavedDataTakesPriorityOverDefaultData(LitJson)" fullname="FoxProject.Tests.JsonDataStoreTests.SavedDataTakesPriorityOverDefaultData(LitJson)" methodname="SavedDataTakesPriorityOverDefaultData" classname="FoxProject.Tests.JsonDataStoreTests" runstate="Runnable" seed="1773982247" result="Passed" start-time="2026-10-22 10:18:00Z" end-time="2026-10-22 10:18:00Z" duration="0.026524" asserts="0">
+                <properties />
+              </test-case>
+              <test-case id="1034" name="SavedDataTakesPriorityOverDefaultData(JsonUtility)" fullname="FoxProject.Tests.JsonDataStoreTests.SavedDataTakesPriorityOverDefaultData(JsonUtility)" methodname="SavedDataTakesPriorityOverDefaultData" classname="FoxProject.Tests.JsonDataStoreTests" runstate="Runnable" seed="1811381716" result="Passed" start-time="2026-10-22 10:18:00Z" end-time="2026-10-22 10:18:00Z" duration="0.007920" asserts="0">
+                <properties />
+              </test-case>
+            </test-suite>
+          </test-suite>
+          <test-suite type="TestFixture" id="1044" name="SceneFlowSmokeTests" fullname="FoxProject.Tests.SceneFlowSmokeTests" classname="FoxProject.Tests.SceneFlowSmokeTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-10-22 10:18:03Z" end-time="2026-10-22 10:18:22Z" duration="19.163288" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1045" name="MenuSettingsAllLevelsCompletionAndRepeatedTransitions" fullname="FoxProject.Tests.SceneFlowSmokeTests.MenuSettingsAllLevelsCompletionAndRepeatedTransitions" methodname="MenuSettingsAllLevelsCompletionAndRepeatedTransitions" classname="FoxProject.Tests.SceneFlowSmokeTests" runstate="Runnable" seed="1139506086" result="Passed" start-time="2026-10-22 10:18:00Z" end-time="2026-10-22 10:18:22Z" duration="22.181349" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="Timeout" value="240000" />
+              </properties>
+              <output><![CDATA[狐狸摆放目标配置不完整。
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

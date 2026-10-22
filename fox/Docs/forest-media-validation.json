@@ -1,0 +1,141 @@
+{
+  "recordings": [
+    {
+      "path": "Docs/Videos/forest-intro.mp4",
+      "bytes": 4218123,
+      "duration": "00:00:41.07",
+      "dimensions": [
+        "1280",
+        "720"
+      ],
+      "hasAudio": true,
+      "audio": {
+        "channels": 2,
+        "sampleRate": 48000,
+        "seconds": 41.23733333333333,
+        "peak": 0.20159912109375,
+        "rms": 0.007143298626592817,
+        "clippedSamples": 0
+      }
+    },
+    {
+      "path": "Docs/Videos/forest-reunion.mp4",
+      "bytes": 2742951,
+      "duration": "00:00:25.07",
+      "dimensions": [
+        "1280",
+        "720"
+      ],
+      "hasAudio": true,
+      "audio": {
+        "channels": 2,
+        "sampleRate": 48000,
+        "seconds": 25.152,
+        "peak": 0.093902587890625,
+        "rms": 0.005948780549504516,
+        "clippedSamples": 0
+      }
+    },
+    {
+      "path": "Docs/Videos/ghost-animation.mp4",
+      "bytes": 419207,
+      "duration": "00:00:09.07",
+      "dimensions": [
+        "1280",
+        "720"
+      ],
+      "hasAudio": true,
+      "audio": {
+        "channels": 2,
+        "sampleRate": 48000,
+        "seconds": 9.066666666666666,
+        "peak": 0.353057861328125,
+        "rms": 0.03414742948075496,
+        "clippedSamples": 0
+      }
+    }
+  ],
+  "synthesizedEffects": [
+    {
+      "name": "Back",
+      "seconds": 0.2,
+      "peak": 0.368927001953125
+    },
+    {
+      "name": "Complete",
+      "seconds": 1.3,
+      "peak": 0.443115234375
+    },
+    {
+      "name": "Confirm",
+      "seconds": 0.28,
+      "peak": 0.421417236328125
+    },
+    {
+      "name": "Equip",
+      "seconds": 0.2,
+      "peak": 0.31573486328125
+    },
+    {
+      "name": "Explosion",
+      "seconds": 0.65,
+      "peak": 0.673126220703125
+    },
+    {
+      "name": "FoxStartle",
+      "seconds": 0.45,
+      "peak": 0.409332275390625
+    },
+    {
+      "name": "Hit",
+      "seconds": 0.16,
+      "peak": 0.343536376953125
+    },
+    {
+      "name": "Hover",
+      "seconds": 0.09,
+      "peak": 0.2598876953125
+    },
+    {
+      "name": "Hurt",
+      "seconds": 0.27,
+      "peak": 0.402801513671875
+    },
+    {
+      "name": "Pickup",
+      "seconds": 0.33,
+      "peak": 0.364105224609375
+    },
+    {
+      "name": "Rescue",
+      "seconds": 0.75,
+      "peak": 0.441650390625
+    },
+    {
+      "name": "Shield",
+      "seconds": 0.45,
+      "peak": 0.42108154296875
+    },
+    {
+      "name": "TalkFox",
+      "seconds": 0.06498866213151927,
+      "peak": 0.235595703125
+    },
+    {
+      "name": "TalkGhost",
+      "seconds": 0.06498866213151927,
+      "peak": 0.214202880859375
+    },
+    {
+      "name": "Throw",
+      "seconds": 0.3,
+      "peak": 0.436737060546875
+    },
+    {
+      "name": "Use",
+      "seconds": 0.38,
+      "peak": 0.413177490234375
+    }
+  ],
+  "errors": []
+}

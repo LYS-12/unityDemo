@@ -1,0 +1,5 @@
+Native graphical Game View + AudioListener capture. GPU: NVIDIA GeForce RTX 4050 Laptop GPU
+Docs/Videos/forest-intro.mp4: 616 frames / 15 fps, 41.07 seconds; audio samples=3958784; mean game frame=18.60 ms (includes recording overhead).
+Docs/Videos/ghost-animation.mp4: 136 frames / 15 fps, 9.07 seconds; audio samples=870400; mean game frame=9.85 ms (includes recording overhead).
+Docs/Videos/forest-reunion.mp4: 376 frames / 15 fps, 25.07 seconds; audio samples=2414592; mean game frame=12.71 ms (includes recording overhead).
+Ghost demonstration uses temporary scenery hiding and a presentation floor; authored scene assets retain the forest.

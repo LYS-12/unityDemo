@@ -1,0 +1,15 @@
+/Library/
+/Temp/
+/Obj/
+/obj/
+/Logs/
+/Builds/
+/UserSettings/
+/.vs/
+/.organize-backup/
+*.csproj
+*.sln
+__pycache__/
+*.py[cod]
+/Tools/.media/
+/TempCapture/

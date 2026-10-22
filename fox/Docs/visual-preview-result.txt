@@ -1,0 +1,2 @@
+Captured native Game View inventory, combat and explosion frames.
+Graphics: NVIDIA GeForce RTX 4050 Laptop GPU / Direct3D11

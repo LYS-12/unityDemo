@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3b1e121cb266d4bab6b1307a0474bb, type: 3}
+  m_Name: UITheme
+  m_EditorClassIdentifier: 
+  headingFont: {fileID: 11400000, guid: 578dbf6bf7100174c9ce39ac6052d01c, type: 2}
+  bodyFont: {fileID: 11400000, guid: 67f2fb63d4a2d4e479c3424c7ff9204c, type: 2}
+  roundedCard: {fileID: 21300000, guid: a37255da9c3521e439fb55924cced580, type: 3}
+  circle: {fileID: 21300000, guid: 15b3d3d5f86e0ba4b886cf876d4ae269, type: 3}
+  playerArrow: {fileID: 21300000, guid: 96920d0aea0626c4f944f83e6fbf604e, type: 3}
+  titleArt: {fileID: 21300000, guid: fdc9c4eb6effb5643894e9fbef754e91, type: 3}
+  cream: {r: 1, g: 0.96, b: 0.85, a: 1}
+  mint: {r: 0.59, g: 0.81, b: 0.69, a: 1}
+  apricot: {r: 0.98, g: 0.74, b: 0.52, a: 1}
+  ink: {r: 0.22, g: 0.34, b: 0.29, a: 1}

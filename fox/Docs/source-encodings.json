@@ -1,0 +1,70 @@
+[
+  {
+    "path": "Assets/_Project/Scripts/Interaction/BaseCounter.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Scripts/Interaction/ClearCounter.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Scripts/Interaction/OneShotContainerCounter.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Scripts/Items/KitchenObjectHolder.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Scripts/Progression/FinalPlacementGoal.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Scripts/Progression/FoxPlacementGoal.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Scripts/Progression/IngredientPlacementGoal.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Scripts/SceneFlow/MainMenuBootstrap.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Scripts/UI/BasePanel.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Scripts/UI/CompletionPanel.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Scripts/UI/LevelSelectPanel.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Scripts/UI/SettingsPanel.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Scripts/UI/UIManager.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Prototypes/Combat/Scripts/CombatActor.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Prototypes/Combat/Scripts/PatrolEnemy.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Prototypes/Combat/Scripts/Projectile.cs",
+    "source_encoding": "gb18030"
+  },
+  {
+    "path": "Assets/_Project/Prototypes/Combat/Scripts/Weapon.cs",
+    "source_encoding": "gb18030"
+  }
+]

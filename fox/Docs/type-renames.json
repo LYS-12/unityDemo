@@ -1,0 +1,19 @@
+{
+  "CarMo": "CameraMove",
+  "LooadingUI": "LoadingIndicator",
+  "Loader": "SceneLoader",
+  "LoadBack": "LoadingSceneController",
+  "Main": "MainMenuBootstrap",
+  "Next": "FoxPlacementGoal",
+  "Next1": "IngredientPlacementGoal",
+  "Final": "FinalPlacementGoal",
+  "ChoosePanel": "LevelSelectPanel",
+  "SettingPanel": "SettingsPanel",
+  "FinalPanel": "CompletionPanel",
+  "SubmissionCounter": "OneShotContainerCounter",
+  "TankBaseObj": "CombatActor",
+  "MonsterObj": "PatrolEnemy",
+  "BulletObj": "Projectile",
+  "WeaponObj": "Weapon",
+  "JsonMgr": "JsonDataStore"
+}

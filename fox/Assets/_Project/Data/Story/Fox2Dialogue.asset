@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07ad04beb0e966e468745e2b25a74094, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foxName: "\u56E2\u56E2"
+  apology:
+  - speaker: "\u56E2\u56E2"
+    text: "\u6211\u8DD1\u5F97\u592A\u5FEB\uFF0C\u8FDE\u70B9\u5FC3\u90FD\u6CA1\u62FF\u3002"
+  - speaker: "\u5C0F\u5E7D"
+    text: "\u6211\u4EEC\u4E00\u8D77\u56DE\u53BB\u5427\uFF0C\u70B9\u5FC3\u5E94\u8BE5\u8FD8\u5728\u3002"
+  - speaker: "\u56E2\u56E2"
+    text: "\u90A3\u5C31\u8BF4\u597D\u4E86\uFF01\u6211\u4EEC\u4E00\u8D77\u56DE\u6D3E\u5BF9\u3002"

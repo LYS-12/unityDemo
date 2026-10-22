@@ -1,0 +1,13 @@
+{
+    "unityVersion": "2022.3.62f3c1",
+    "scenes": 5,
+    "prefabs": 62,
+    "itemDefinitions": 6,
+    "models": 44,
+    "presentationAssets": 117,
+    "errors": [],
+    "notes": [
+        "Assets/_Project/Prefabs/Counters/ClearCounter.prefab: pre-existing missing nested prefab GUID 01a2813569e6d9e44b7ca8a18ddd3794; original asset preserved.",
+        "Assets/_Project/Prefabs/Items/butterfly 1.prefab: pre-existing missing nested prefab GUID 5328f4d2c0f5d1340b0ec29b6b629774; original asset preserved."
+    ]
+}

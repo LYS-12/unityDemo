@@ -1,0 +1,2 @@
+Native graphical Game View captures: title, intro, ghost, shared HUD/map, inventory at 1080/720, ultrawide and reunion.
+GPU: NVIDIA GeForce RTX 4050 Laptop GPU

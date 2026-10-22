@@ -1,0 +1,3 @@
+GPU: NVIDIA GeForce RTX 4050 Laptop GPU; CPU: 13th Gen Intel(R) Core(TM) i7-13620H
+Presentation FX on: frames=217, mean=9.26 ms, median=9.07 ms, p95=11.19 ms. Native Editor Game View 1280x720; no movie encoding during sampling.
+Presentation FX off: frames=212, mean=9.46 ms, median=9.12 ms, p95=12.01 ms. Native Editor Game View 1280x720; no movie encoding during sampling.

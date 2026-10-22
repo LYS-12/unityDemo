@@ -1,0 +1,767 @@
+{
+  "unity": "2022.3.62f3c1",
+  "changedOriginalFiles": [
+    {
+      "path": "Assets/_Project/Editor/GameplayFeatureTests.cs",
+      "sha256": "05ba1831878a0753a8d1fff51c77a8b57d18458d714cb662dcba07e1e52a5999",
+      "guid": "2847e7df22198ee409d1331c74be7298"
+    },
+    {
+      "path": "Assets/_Project/Editor/GameplayProjectSetup.cs",
+      "sha256": "4382506e916205b20d9722f58f96c70b1886fadc276c063861e0f43ec8ab9d97",
+      "guid": "4f7e9c9fefc45b44a936fcd52d6ae2a9"
+    },
+    {
+      "path": "Assets/_Project/Editor/GameplayValidation.cs",
+      "sha256": "8e708d255a1f6e55564fa5d86895e5414fc16a43efd91dc968c923b530b8b907",
+      "guid": "9bc57dca0d5babf40871c376fbb4535d"
+    },
+    {
+      "path": "Assets/_Project/Editor/ProjectRegressionTests.cs",
+      "sha256": "47cce65c2e4fe7c6fae35eca07f0a0f519754902724c933098af4325e4943590",
+      "guid": "e97bac52d8a0d0f48a4504a750ac64ae"
+    },
+    {
+      "path": "Assets/_Project/Editor/ProjectValidation.cs",
+      "sha256": "0ac741149af235c7a4bf38a6dbe020bd842bd50e58064a22e0ef1e5cf3e3cde2",
+      "guid": "5dab42036161fd144ac64adb7d7a534f"
+    },
+    {
+      "path": "Assets/_Project/Scenes/GameScene1.unity",
+      "sha256": "70714c71ea0f7ab2efa0bd1ae7232f9187624db8bf8506c525ac43b9f83156b8",
+      "guid": "99c9720ab356a0642a771bea13969a05"
+    },
+    {
+      "path": "Assets/_Project/Scenes/GameScene2.unity",
+      "sha256": "afca2461d260b73580237a9c1fe7113733c0a1e791bb7fe1552da38d8fc8b661",
+      "guid": "81670dbf1e6b0034fbb59f8aa46ccd34"
+    },
+    {
+      "path": "Assets/_Project/Scenes/GameScene3.unity",
+      "sha256": "6ba31abb8638cb3d0011880c7afce4901989dd628ba2c91a83116336a22deb50",
+      "guid": "8e83b5527e73cc24aa39a1927830e73e"
+    },
+    {
+      "path": "Assets/_Project/Scenes/StartScene.unity",
+      "sha256": "1fa5f3e666c45a8877c8a0121dad90ce04e9d7b405b6a23dd32c7d21354269e0",
+      "guid": "8a212ab450888cb4f8be8d17cb30ae0d"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Audio/AudioManager.cs",
+      "sha256": "7e23356fd5f9acfc4e986f2d4060e54c14a65a6c94f0bfc17d11e095b0488efa",
+      "guid": "7622589e00a7abc41931d5e32be49e50"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Combat/ItemProjectile.cs",
+      "sha256": "e97870b185fa967ff47ea447e753a765f0d4084ef7169c818fc6791a3fa8f141",
+      "guid": "397ed8cc61bbcb949b014acdce839d0a"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Combat/PlayerHealth.cs",
+      "sha256": "e01ca4d918e88249621c996287284f1798811cc864de143223f89b5ad08776a4",
+      "guid": "0c41057740050b047856f3f6e0e7866a"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Enemies/EnemySpawner.cs",
+      "sha256": "0b4285adb97e6ea3c3b46063dd84904ac5acceb441c4dffb615f084c693c5277",
+      "guid": "a482888ba8e00c141b3ace092d1f44aa"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Enemies/RockEnemy.cs",
+      "sha256": "544fa5a0faaa36eccb90a65f0c9b5e0c8a08c77d9bfa79420eb8954f0bb941d0",
+      "guid": "5991039b94d48ff4e9403d99325d224e"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Gameplay/RunSession.cs",
+      "sha256": "a1d604baf29a7fc4eb304631937d34bb36dc20c6445a2497dd00e7d155bf3460",
+      "guid": "4cc73ef92b591934da7aec136fad556b"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Input/GameControl.cs",
+      "sha256": "84a7a200f64c7f1c284a0b6a0adabd818a6078425d1698a9ca5391a6ef7654cd",
+      "guid": "5067b43a3b3195f428c60bb880968dfe"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Input/GameControl.inputactions",
+      "sha256": "0f21338ade01f9365ea133cf079355cc23ff0c1a0f96bced7652ec66533b7c89",
+      "guid": "66290cf14dd0faa4b9554103b0c46525"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Input/GameInput.cs",
+      "sha256": "6355502a51cb9b6dbbe33293792212a1474910f2c3e53a807731f0d8f4200ded",
+      "guid": "945158e450056c745ae4e9d68523bcad"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Items/ItemView.cs",
+      "sha256": "4d5794b3f5a09f619db050b0ae8d606a5552f4c9a82cb78a3629cd8a3cbff258",
+      "guid": "5750e527149012a43a11ac871d6ce03d"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Items/WorldItemPickup.cs",
+      "sha256": "f5adc85b6800f7f0dc4496a236a6a635120b2a1e263810eb9e7589abbfc46931",
+      "guid": "13dd06e409b30254b934ff48fa680509"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Player/Player.cs",
+      "sha256": "15e81edb1f95292e545522db93117bd835ca1ba28ae573e58d274046e0deefdd",
+      "guid": "ec98d654e743685439101276f3a68268"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Player/PlayerAnimator.cs",
+      "sha256": "d31c9f7da052fff558a0aa401ef282daaf269751236b4b0543d77a5dffd9c4a3",
+      "guid": "5229c697245c6ad4ca0542015f631a81"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Player/PlayerItemController.cs",
+      "sha256": "0c37365dc249fdaf250c4c7fa8b79631b91d389214557a2837b04820e93e9a2b",
+      "guid": "706453705f4c7154b891d488c094b3ab"
+    },
+    {
+      "path": "Assets/_Project/Scripts/SceneFlow/MainMenuBootstrap.cs",
+      "sha256": "016354e51e6011c13a488883c0757c75626c9a0b59dcf3deb52d257e505f9f9b",
+      "guid": "7965ddfbdd294514fb094eb313048349"
+    },
+    {
+      "path": "Assets/_Project/Scripts/SceneFlow/SceneLoader.cs",
+      "sha256": "58c7123a45d1318ebd229d75cfe47132b19b78753d8ce6bac2ed3739d73c0df7",
+      "guid": "22c89dc2dc9832d43a918ee8a61d5f4d"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/BasePanel.cs",
+      "sha256": "f15d3e694022698b662b1f2b93f38884c3a3a9cc81737b8255876e5775e7eba4",
+      "guid": "767b52d9062c2dc478b95c5f2253c0bd"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/GameplayHUD.cs",
+      "sha256": "c8b43231f345f39bb1e5020e5fc9f11cf1b3c46f02f1b6c09ccafaa1597a6be3",
+      "guid": "7ff8186829c67b74bb81cabd0049a955"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/LevelSelectPanel.cs",
+      "sha256": "6a0447f35474e304c8afcccf519893826e1b00d72e788c41db61c696fc4755aa",
+      "guid": "ccca444416b2bd94285609323344c52d"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/SettingsPanel.cs",
+      "sha256": "84f28cf6b02de44bc3b1ca502d534e893a83be4ba0fd77e1f4d74db45388fcb0",
+      "guid": "b5ead577be781074cbbf0393cc560827"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/StartPanel.cs",
+      "sha256": "2529c48b1862e8e3b650a482b5ba98ee60d02dd5b1a67698838155e44b91d9f7",
+      "guid": "6864840e498a5af4a8290e229e9d0849"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/UIManager.cs",
+      "sha256": "122ed5d30a3d1e1c58689b9536c194567c1d72c727be68dea6bd8d26b4ac05d2",
+      "guid": "401a0c3cb1d93404c9feccde9d0036f8"
+    },
+    {
+      "path": "Assets/_Project/Resources/UI/CompletionPanel.prefab",
+      "sha256": "9346bb35d8972b534f9155133a481bf034625e34c1e38ca38646de58dd09b8e8",
+      "guid": "ce39b29d6537e44408a95a174c08317f"
+    },
+    {
+      "path": "Assets/_Project/Resources/UI/LevelSelectPanel.prefab",
+      "sha256": "c58184eb4de1156a5df1f18af4e804df0f8d16f78d376dd06e391d19b47444d0",
+      "guid": "4d4996fb76dc0664ba038334a46be871"
+    },
+    {
+      "path": "Assets/_Project/Resources/UI/OrderPanel1.prefab",
+      "sha256": "0ec7e18357d3d04e2527fa3a566deb57c9bb1bb57f778653e7005047c1a0d1bb",
+      "guid": "b05cac5393d93194aac5da94d5bde87a"
+    },
+    {
+      "path": "Assets/_Project/Resources/UI/OrderPanel2.prefab",
+      "sha256": "27438d718db4e5c050b9aadda4bceb7dfbb5f2b6c1673bdc9378b34064846101",
+      "guid": "02c123c18e535654b9d1463b34ca8deb"
+    },
+    {
+      "path": "Assets/_Project/Resources/UI/OrderPanel3.prefab",
+      "sha256": "8577ae3a3df71142cae865d5a26545dc419731d5b7ae699e7e09417db8a8ed92",
+      "guid": "11030876ab8c02f459c95a127c3e7e53"
+    },
+    {
+      "path": "Assets/_Project/Resources/UI/SettingsPanel.prefab",
+      "sha256": "41651c1547abe1987ad7ee041c9b5151441e80766e1676523630c5d262ca090f",
+      "guid": "d3ae1b4ec4fa1514ea39fb9af7519d99"
+    },
+    {
+      "path": "Assets/_Project/Resources/UI/StartPanel.prefab",
+      "sha256": "25548b245f21e90a7ebd850c4fe762755f2bf96eba056c0819fd13934ef507cd",
+      "guid": "817031ba4127ace4eabf2d0a38774bd9"
+    },
+    {
+      "path": "Assets/_Project/Prefabs/Enemies/RockEnemy.prefab",
+      "sha256": "62169d207df86ce7c6935f42f1024ac0d979fe9b47e2b303a3e6df057856afcb",
+      "guid": "f33fe93d700415a4aa63598f3770fc81"
+    },
+    {
+      "path": "Assets/_Project/Prefabs/Gameplay/GameplayHUD.prefab",
+      "sha256": "ad129fc711d9d5d0af2b25c0bb2310d835ead5f7a2eb5ca78705d4d9b5be3ca5",
+      "guid": "c71ec51640d482f4eb014cd63b05c11a"
+    },
+    {
+      "path": "Assets/_Project/Data/Navigation/GameScene1Combat.asset",
+      "sha256": "d06dce2c45e8be721743044ee880644950e355197c32910e11296ba1bd8a1dff",
+      "guid": "1caab945449933441b36e0d69a1bb95d"
+    },
+    {
+      "path": "ProjectSettings/TagManager.asset",
+      "sha256": "dc2c4797dfce40311492902f19fc1ffdf8a0b15b4207275774ef011d8eb96b0d"
+    }
+  ],
+  "newAssets": [
+    {
+      "path": "Assets/_Project/Editor/ForestPartyAssets.cs",
+      "sha256": "849fbc740c68a766c0b5b552ebc1018ffc2d0fd21a4b0abef32942dc1833baaa",
+      "guid": "334ecb3da880200449b33d9fad80221b"
+    },
+    {
+      "path": "Assets/_Project/Editor/ForestPartyAudioSetup.cs",
+      "sha256": "173c6a245db285a2196f0f015d2b86327e290abea3c522c156ce14e838f7959d",
+      "guid": "e13ee2fcdaa1e56439ee591b27231b2e"
+    },
+    {
+      "path": "Assets/_Project/Editor/ForestPartyEnvironment.cs",
+      "sha256": "4878859c498cce37b810495ebfecf55e2082052ca0363568c9b3665e050eaef9",
+      "guid": "b312ff1707e733144a79d41eb2bf9aed"
+    },
+    {
+      "path": "Assets/_Project/Editor/ForestPartyPreview.cs",
+      "sha256": "703d9c672b0e0c738a2debd3d7b0b7c2e40cf3ff89e67e5b47959d2c0c1988f1",
+      "guid": "8d66a9ab520678e4eaee4f81ec8e1071"
+    },
+    {
+      "path": "Assets/_Project/Editor/ForestPartyRecording.cs",
+      "sha256": "ea5035d33f06a032b87f58d6eb29e9e595fb477c51b6b1beaa4da2b2d1645475",
+      "guid": "d0b9c9adcb404c648b64eda3f1f02488"
+    },
+    {
+      "path": "Assets/_Project/Editor/ForestPartyRelease.cs",
+      "sha256": "725938eccf2527dde0d2a39e7e6adcaf9a06d57bad11160c3912832fc3d63191",
+      "guid": "38b06721756ffab42a23460fb0c281de"
+    },
+    {
+      "path": "Assets/_Project/Editor/ForestPartyScenes.cs",
+      "sha256": "dc1678a9f6a7b1edd38bf0d066280333240c02774f2339912fe111f2ebc96220",
+      "guid": "5483d97344b21a946b47e628aacf93c1"
+    },
+    {
+      "path": "Assets/_Project/Editor/ForestPartySetup.cs",
+      "sha256": "37675edabbde8c1a3fb4cfce804c762190666bf5ecd1e57083fef8cf2be8618e",
+      "guid": "84e6e363497a7c345ad3947306a548f9"
+    },
+    {
+      "path": "Assets/_Project/Editor/ForestPartyTests.cs",
+      "sha256": "bea2dc4e0d104fc0269693229a550bfcc6a6f7f30950b96f986983dbbc12b920",
+      "guid": "fcc88a5476eb5d7428520b271448f6e5"
+    },
+    {
+      "path": "Assets/_Project/Editor/ForestPartyTimelines.cs",
+      "sha256": "18f554229a8067b665a3e5f865c5c907b1c6a2c0915b2fa87874ee0af8cf2a92",
+      "guid": "c84eb45e54820dd4294482fc73f10d9a"
+    },
+    {
+      "path": "Assets/_Project/Editor/ForestPartyUI.cs",
+      "sha256": "ac40262ef1a2c674cf805964579d7cae5828d3a0f5737bb1b6d4beb486627274",
+      "guid": "b23bdce51e88f7444b997b4ea1687926"
+    },
+    {
+      "path": "Assets/_Project/Timelines/ForestPartyIntro.playable",
+      "sha256": "0e139e8c0e097830b61c21db613bc477bb65fe96f3bd2e031be4aba951cedb0f",
+      "guid": "bb236aea3a573d14a90196f2cce53094"
+    },
+    {
+      "path": "Assets/_Project/Timelines/ForestPartyReunion.playable",
+      "sha256": "7aecdc6c102ab75976d87add4e3871791aad2aa8c580a7bab0477eab4d4b88bb",
+      "guid": "b07a6acee70dbe24b9faf777f1749231"
+    },
+    {
+      "path": "Assets/_Project/Videos/README.md",
+      "sha256": "debec7dbc0b35c3464b473a69519b628c85849ed4afdb828105042249c667359",
+      "guid": "fbc2106e26a0a9a43b643e55b80ccbe1"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Audio/PartyAudio.cs",
+      "sha256": "bc2acf8cedaa0e47bff2a1083e8f4951252f19c61182dd8c4353a474f5d27614",
+      "guid": "6053f485eb2112c469f8729315e1818e"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Audio/PartyAudioLibrary.cs",
+      "sha256": "1dac532aab52349b65d9fc4c233dd4e3fe4788c88088ef1a6e3f771295a808d1",
+      "guid": "6043782281d14404aab7529e925ef99b"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Combat/CombatTargets.cs",
+      "sha256": "6eb4e8eac1f1ee22ad0e0ed648c97431007d320fb15b85363e0f7540a7fa9869",
+      "guid": "247c7cdc116ff8d4ca2ca668741b5d7e"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Combat/IHealthSource.cs",
+      "sha256": "4661f74cfef40e87188c05cac0af969d849e2560c441863614944baeb2d72902",
+      "guid": "a073bd1b80e28a14bb72744bb24f6dbe"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Environment/ForestLeaves.cs",
+      "sha256": "0340f29d0b5d0e4918f7867b029fe3cc3c0730c91f8af3fafeea96cf75203fe0",
+      "guid": "76ac578b8857e7f4f9a20965e5a97126"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Player/GhostMotionEffects.cs",
+      "sha256": "33a8fbbea879adee67ed72f4fe675c4c8455c79d030151a72a083fd308d7afe2",
+      "guid": "0eca7ad2be071354c915767d9a2931b1"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Story/DialogueView.cs",
+      "sha256": "e9953b3f033d9559b81f410ef4176c2a2a503374dbee3268deca5494a7760dc0",
+      "guid": "2db62938fa488db4f9fad3630a2b7049"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Story/FoxCompanion.cs",
+      "sha256": "99689d091603f93f12ddcdb8e6978331487af672674cece222caeea4338f0411",
+      "guid": "1f280f516a787cd4f83fbeea3667272c"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Story/FoxDialogue.cs",
+      "sha256": "e5e08bb72bc87b9027034a75a0dce21e6b69c59e3d142e668ae6557e87390ccb",
+      "guid": "07ad04beb0e966e468745e2b25a74094"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Story/FoxEscortQuest.cs",
+      "sha256": "1bc3dd1b1014928e53f2c058accff15239efc68b8f35a5e43c1a47c39b8640a6",
+      "guid": "d6f222a064030d045b54744ba5205452"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Story/StoryActorClip.cs",
+      "sha256": "e091d5928683cf3e604a83ed807e5a02253be61664b6eaf8e3461e10c5637742",
+      "guid": "52a9e0b005472314b94577366c7e69ee"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Story/StoryActorTrack.cs",
+      "sha256": "0385505a36ed9c10e5b9b8f0795e693169512b56762a6d792481c93fb5184599",
+      "guid": "7f7154cdefc8f9a40bda65c98572ecc9"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Story/StoryCinematic.cs",
+      "sha256": "f5a9393e11c174ae62eb7862ab8aadfc2a6745b36b30c075a84818e36bc34b13",
+      "guid": "f8d6c76d7cc38504bb19ae5d4a1ad456"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Story/StorySubtitleClip.cs",
+      "sha256": "a1a1b73229c36918d38cdafba540e86cb3f4b637ac5866ac398c4940c7d26375",
+      "guid": "03d237f254e82fd469b26784dc33a82d"
+    },
+    {
+      "path": "Assets/_Project/Scripts/Story/StorySubtitleTrack.cs",
+      "sha256": "0ba14dc08ed23ba52ce218cc3c77864b78bc4a17c710d63aba5bb27ca947b758",
+      "guid": "2e2d2d13de67f6f47b4e5b29dc2ea4e0"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/CircularMinimap.cs",
+      "sha256": "529c74349a5afe12c3b465ae65a927c177aff8c6725c83a4f70c1d03d2727758",
+      "guid": "ec12e92a58e51b3489869e44def2f1fe"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/MinimapSymbols.cs",
+      "sha256": "f4c378940870fad651cc3cb4297531c906a64e4f1d22d9dbf934a26899f175d3",
+      "guid": "a854e825c526100498d19f03b83e740b"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/OverheadHealthBar.cs",
+      "sha256": "c89d19e0acb7ffe85e2bdd53e672e49fdb201c8cc124e41822279c78fa13de6b",
+      "guid": "6c8d11a1045c9364a8d5e13d80c4caf2"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/PanelTween.cs",
+      "sha256": "55137a31c004e786c16f994688589f256eb218d7b2d15cee8a772d365511b93f",
+      "guid": "c7159e8def095704da9286ffc62709f4"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/ScreenTransition.cs",
+      "sha256": "494e4f8b930cfdace8351ebcf989f853e56958abe9b72133d4bf4e4bbc6effcd",
+      "guid": "52b5a5232c002a64e913a495fb6350a1"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/UIButtonFeedback.cs",
+      "sha256": "88ffdce42e8cc4210a43c06af247fe2a30d29ed2b2082fb017cb0a8b50d4a6b3",
+      "guid": "6449a1e5b0d3ca04da93ecd9196f6377"
+    },
+    {
+      "path": "Assets/_Project/Scripts/UI/UITheme.cs",
+      "sha256": "a634c944be0a2d1610dfbaf7b2c9f272122bb72fdd425db92a67e1e208617dbd",
+      "guid": "bd3b1e121cb266d4bab6b1307a0474bb"
+    },
+    {
+      "path": "Assets/_Project/Resources/ForestParty/AudioLibrary.asset",
+      "sha256": "9d92fc039b6cea90d8394d17b352ab2137954f43b9c054163f216612f348a003",
+      "guid": "156f3a23a661e6140905f133b0b4953d"
+    },
+    {
+      "path": "Assets/_Project/Resources/ForestParty/Scene1Volume.asset",
+      "sha256": "d20070ae6638d52071b4250ee1c4fc8535955de1f41ea6202eda45eb6890023a",
+      "guid": "a59cd993624b7ba429ac0d9ccea93f39"
+    },
+    {
+      "path": "Assets/_Project/Resources/ForestParty/Scene2Volume.asset",
+      "sha256": "69333cbf862246c89f104160e4cdd4c9cd9b67caf67e8ef4cea2167aad444045",
+      "guid": "649caa897d10b6d468474fe9c03136bc"
+    },
+    {
+      "path": "Assets/_Project/Resources/ForestParty/Scene3Volume.asset",
+      "sha256": "2016e98928cd956ec250eaab818a1f950545775007be8fd5ccf9ffb180bcb048",
+      "guid": "5b8fcd22c662bd943862a5a57457c9a3"
+    },
+    {
+      "path": "Assets/_Project/Resources/ForestParty/UITheme.asset",
+      "sha256": "ab7bf16a664ab0a2b37437d37ed8dff9fd83d41bd3f752b2e05ec8d8ca0562cc",
+      "guid": "5b709a9be4f75f344b6cb7a562a4f08e"
+    },
+    {
+      "path": "Assets/_Project/Prefabs/Characters/FoxNPC/ForestFox.prefab",
+      "sha256": "2a570ca7165c8c10566c72ed4193b906463581c7bf36ee59327b47c470daaaa8",
+      "guid": "95b78c2bab31b5d47b9614362b8b97be"
+    },
+    {
+      "path": "Assets/_Project/Prefabs/Characters/Ghost/GhostVisual.prefab",
+      "sha256": "6a518b72f397e649fae1c74a29ebe51927e9063f182bb510539353e7672f278b",
+      "guid": "9b749e669376b3e499606db44e0bfaa4"
+    },
+    {
+      "path": "Assets/_Project/Fonts/ForestParty/NotoSansSC.asset",
+      "sha256": "3840e67994630630cd4c8ce4c9d3dba3554200a2c8b74834fffaca2e07d21946",
+      "guid": "67f2fb63d4a2d4e479c3424c7ff9204c"
+    },
+    {
+      "path": "Assets/_Project/Fonts/ForestParty/ZCOOLKuaiLe.asset",
+      "sha256": "50abe477099a5094c9c58879227b10aadde50b8332106601f15324bcf66f7ed8",
+      "guid": "578dbf6bf7100174c9ce39ac6052d01c"
+    },
+    {
+      "path": "Assets/_Project/Data/Audio/ForestParty.mixer",
+      "sha256": "aa2d46275625845930e8f2c76be8ccf6ee6e4133df7bb48769d06ca376291bb7",
+      "guid": "823dc9aff0dac184d89c5dd6622282e3"
+    },
+    {
+      "path": "Assets/_Project/Data/Story/Fox0Dialogue.asset",
+      "sha256": "f6b64c17fe05e0b6a7d2d170ce6a0631ca614c3a2c32f608a47bc0a6ea20c34b",
+      "guid": "88bd4af8417a7004bbafd8bf1fb55d6c"
+    },
+    {
+      "path": "Assets/_Project/Data/Story/Fox1Dialogue.asset",
+      "sha256": "58e291136ff937469544dc78d1958d9ae2816d692ea0c4a54c8b2712f79c7085",
+      "guid": "25baf3c1131e5804e8eaf939eebcf7e9"
+    },
+    {
+      "path": "Assets/_Project/Data/Story/Fox2Dialogue.asset",
+      "sha256": "8bdd1b4462129116b8c0194894468ed8480ddc05c8b37d05418dd63a1fe4bf67",
+      "guid": "0eeca461c11c8294da5f8a3fe8d0f4b8"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Back.wav",
+      "sha256": "0cc59fb7e3d71886a53c02207b390cc8dd975c17765f41b1129f5bded44b19f2",
+      "guid": "6b7f9fc3930b9904ebdec0663608493c"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Complete.wav",
+      "sha256": "f50be5fddd953b0935d9649eb634355378aad9df073b6049c5dda5f0b24ef8b5",
+      "guid": "09f9c5e4dff3f4645876291c149f70b8"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Confirm.wav",
+      "sha256": "f7cb5464e4894cfbd13b8a8d61f09a09a4b5f232ac42ec971ec3362b705cf074",
+      "guid": "511ae8fa60c0d7c42830254d8a662fdd"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Equip.wav",
+      "sha256": "54e1c48f11d672f9dd7fdce94e0ee5752909f379b2f989244842f3acd5522d2e",
+      "guid": "2d3be82137e72894ab48b8c30ec98767"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Explosion.wav",
+      "sha256": "8d0479608c60eaaca7ef345e48832ddf7f9cba58d0e6a45eb666969c7d235e2f",
+      "guid": "1dd0b8896d68e424995590e350e469f8"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/FoxStartle.wav",
+      "sha256": "9487a3861ef4e762fb23b3a20283b9fa949f05f15bb16c6a745f4272a59981bc",
+      "guid": "5108be9f595646b469b404cdc0211d9e"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Hit.wav",
+      "sha256": "8bc782e80fe9b7cb0aefbe64fee35d8bb75fd94ad745ba0d0f81553bae7ecf54",
+      "guid": "5c469c8eb45f9ae42b1b775902ab2ab6"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Hover.wav",
+      "sha256": "2c8556be8f030621aab4aa535dba1e326cce87c54961ccbb588f96a269445c05",
+      "guid": "03e3eb98814a50b46937b444821039a0"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Hurt.wav",
+      "sha256": "6553f6fa4e267899b2600d6b13d01e6c286e1a474aaf790cf2ef11e137cf3159",
+      "guid": "7e6533f134d753145828c46225230b9d"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Pickup.wav",
+      "sha256": "8f982c5ca03e2a936c9efff94ccc84cde6852d9ddcbfc00469d38142adf8e69c",
+      "guid": "e03caeb5a2c78a540bd59361382a3622"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/README.txt",
+      "sha256": "098affafdeb78f69c7f1da1818c38e48b1160809fc406266efeae3ddeff58204",
+      "guid": "63dfa17b08b42f2409d09949829be682"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Rescue.wav",
+      "sha256": "70af46d480557d42aed4f0f3794af1b9f3eacb2970db8f3fc70089605b36b356",
+      "guid": "65daa984b5fd16246ad0044b067eca11"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Shield.wav",
+      "sha256": "08fed42e6542d4e07d51f23200ac5a7cff3aa6725252f0078c48635eeb031868",
+      "guid": "fad58cd41819ae14faa492d652f8ecf5"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/TalkFox.wav",
+      "sha256": "3058db295bafbe236bdfea5094d7cce3e9b41e1e8390c376d24e07621a26aa29",
+      "guid": "249312107fcc16543968cb76b097e7b5"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/TalkGhost.wav",
+      "sha256": "9520bfe82572610716d33c3d445810b547cdf9d7ecb7f95b4351056dd3fdda73",
+      "guid": "8c5e457889272f94b8970a990dd29e9e"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Throw.wav",
+      "sha256": "7aa0ddf6622a7311b7e6ed1e5f155391bfca4d276b745616854a1c8e5cfbf060",
+      "guid": "c6af2565ab9983d4e9de4dd58ae6dc2f"
+    },
+    {
+      "path": "Assets/_Project/Audio/SFX/ForestParty/Use.wav",
+      "sha256": "d929d8fe5cc6cc939f840c25508f7e093a532137e65f73e054d8faeb85b67ecd",
+      "guid": "d4692ca7f15ec9141a72479fbc78c623"
+    },
+    {
+      "path": "Assets/_Project/Art/Textures/ForestParty/ForestPartyTitle.png",
+      "sha256": "9d395be6ca4fcaf6f0ad1905d3bddca8fe039559a7c5813064a7d25c7a84e338",
+      "guid": "fdc9c4eb6effb5643894e9fbef754e91"
+    },
+    {
+      "path": "Assets/_Project/Art/Sprites/ForestParty/Circle.png",
+      "sha256": "c4e0b1db15621a5204822bff94b80fca8ddaa8bf53947bf576cae4439a2d6018",
+      "guid": "15b3d3d5f86e0ba4b886cf876d4ae269"
+    },
+    {
+      "path": "Assets/_Project/Art/Sprites/ForestParty/PlayerArrow.png",
+      "sha256": "5df944688ecb17e47812cc713917061add7b635a534308291cba7245a89e078d",
+      "guid": "96920d0aea0626c4f944f83e6fbf604e"
+    },
+    {
+      "path": "Assets/_Project/Art/Sprites/ForestParty/RoundedCard.png",
+      "sha256": "e4e45e067681067346bb4a6005a7fe44cb4a1d97eb8a43e16b40065dc1eb2113",
+      "guid": "a37255da9c3521e439fb55924cced580"
+    },
+    {
+      "path": "Assets/_Project/Art/Models/ForestParty/CurlingSmoke.asset",
+      "sha256": "69d0871aae77b6cb7c6ce302cb841b88e006d920602d650e8d948b96286974e4",
+      "guid": "2180313e7ef24fc45a67f85f75ae4518"
+    },
+    {
+      "path": "Assets/_Project/Art/Models/ForestParty/CurvedLeaf.asset",
+      "sha256": "cff2d9f9b3dc296d604717ab7672c38b30d59e51ef59ec109d7ad0d75085995d",
+      "guid": "4364e1e2256c6e34f84c1cc2cca1d6e9"
+    },
+    {
+      "path": "Assets/_Project/Art/Models/ForestParty/GroundLeaves1.asset",
+      "sha256": "565a63af74a08c20a04f917345810ba30f71fdeb96fd3625771ef2e4d130d11b",
+      "guid": "ff11f33bc7f015741aaeb79c371cc9bb"
+    },
+    {
+      "path": "Assets/_Project/Art/Models/ForestParty/GroundLeaves2.asset",
+      "sha256": "35ec242af55b30e1bc7543b2c87b8d4d9ffd8a0fa0c0c845bd4f97c5f6918ba4",
+      "guid": "004a98d064f4d0d4ab10448454f1810d"
+    },
+    {
+      "path": "Assets/_Project/Art/Models/ForestParty/GroundLeaves3.asset",
+      "sha256": "96d79db3279d36c668aac7d69ee7c546ca70eb18719cdf39369add4754ce313b",
+      "guid": "bf57ca7de1a7436448e544d9178ef360"
+    },
+    {
+      "path": "Assets/_Project/Art/Models/Ghost/ForestGhost.fbx",
+      "sha256": "17e52975b7110ed3c6cc803213584acb80a0d0ddcc660fc64c97cffa29c9fd97",
+      "guid": "855ad13ba81b8e34fb8d61ec025d98f1"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/FallenLeaf.mat",
+      "sha256": "5cb438298b0f52db1b354c98ede53b7ed092e3a8ce1727b6584eaa48b779e04f",
+      "guid": "13b66352b9fa52646a143e8f8aa2d79e"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/FireflyGlow.mat",
+      "sha256": "6ba5c517569d666a3478190aea7407e6cb72fd0c1ca014240e00466147274a2a",
+      "guid": "303b14f81bfbab441b029afec755ffbf"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/GhostBlush.mat",
+      "sha256": "240e991738b124f23e1c454af94a98ecb086ffed2b7690d4e504a4981d38e59c",
+      "guid": "9c1b7d6567a2f3b4ca6c030384ca91e5"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/GhostFace.mat",
+      "sha256": "c29bd22366f49c915f3a09175893b45b610a121a11f8fce35f7a8f866ddf0c08",
+      "guid": "23eaa2ed01515d740a954b2beeab10b8"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/GhostGlint.mat",
+      "sha256": "24905d5cc9e4c1f3ab2fcd478b922a6829742f9d98f5082fffefae98c949dd88",
+      "guid": "ffdcb27a451465945849e7d8af642f13"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/GhostRoseHem.mat",
+      "sha256": "276511be594d3a1f481b80c38cd888cb1419f8f60b248f432ba7b10cf8465584",
+      "guid": "5decc87b49c589a4597c51e5544a5ef0"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/GhostSmoke.mat",
+      "sha256": "6235451c75b3a6ae46926db4c143d533dd7b5c4e5df50bacd5f971b9f86f9834",
+      "guid": "060d04a5c5ad8a843b97a392449169cc"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/GhostSparkle.mat",
+      "sha256": "7f3a8e3e605e282a7ac4f051a7915504329ce320e5685e3364e515536ebda1d3",
+      "guid": "e5fceea7c1dab2c4b8f969d078b4c6ee"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/HoneyWood.mat",
+      "sha256": "b82ab319121cef1b87ac8d54b53f7345f43b05a5e663734a240b403dfaa2cef4",
+      "guid": "5f2c246baf088084b86698a8facd1965"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/LanternGlow.mat",
+      "sha256": "c5e23d042a230b6fbd87b4dc48c0ca0e05d7311926bf6fb215bd9dd8b633622d",
+      "guid": "9fa7e2f88b212e642b15a56f5592501e"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/PartySage.mat",
+      "sha256": "b6d9a8b551cecd2d0b6e25cd0c85286392f05949b3670ed6faa691c35972f458",
+      "guid": "f33db460ef651454e8022ba2ce32c3c4"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/PicnicCloth.mat",
+      "sha256": "e7bc5ac2ba31f7c56d8692bc3cfac3082a13d495422e52646a4cc8dbaea49d61",
+      "guid": "6e4757d34cd40e444b7fd17b365672d9"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/ForestParty/PlateCream.mat",
+      "sha256": "8253c8daa732e28523807387ceeca5e05afedcdd68c7225089db8c25917f141b",
+      "guid": "a7f314fef03c8004dae5b8b3a073ebb2"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/Ghost/GhostPearl.mat",
+      "sha256": "be168ec953af5670cbdff50636441c34128d895b85d54908e975f4d28fb3d24f",
+      "guid": "617b05be6feaa7f4c827316998c374a9"
+    },
+    {
+      "path": "Assets/_Project/Art/Materials/Ghost/GhostPearl.shader",
+      "sha256": "43c1d199d9d0a4aadedb18d6dcaa423747e683be52b51af5b2267d9e86a89c5c",
+      "guid": "2987d57c6ed897c4d93e59d1e5924557"
+    },
+    {
+      "path": "Assets/_Project/Art/Animations/FoxNPC/FoxCompanion.controller",
+      "sha256": "171a6752d0e66505c4be95e73f6283848eeac9a612df993a85b0d27738ca4f69",
+      "guid": "ff2672371fd123e49979fd6c6544beaf"
+    },
+    {
+      "path": "Assets/_Project/Art/Animations/FoxNPC/FoxIdle.anim",
+      "sha256": "92dab4eade53e71ace0cb0c1b9e55813371a7579fb8f56ea950154eb2eb037fb",
+      "guid": "8a6545c3d2c9bcf4e87b410a4fd4ad49"
+    },
+    {
+      "path": "Assets/_Project/Art/Animations/FoxNPC/FoxRun.anim",
+      "sha256": "77caff12f4a20f239fb93c210370743e5bfca411dda35db93e0216c9c94373bd",
+      "guid": "a10e42811752fc949886eab6092e6495"
+    },
+    {
+      "path": "Assets/_Project/Art/Animations/Ghost/ForestGhost.controller",
+      "sha256": "63bece9b77dbdc92ea12315ec521ae7c0b04685ab4edf3bd6a5a8d814d1d5ccd",
+      "guid": "8d187af6fa9a4534584e2b15c024175c"
+    },
+    {
+      "path": "Assets/ThirdParty/ForestPartyFonts/SOURCES.txt",
+      "sha256": "5cc50b15e098bdaccc35f0d7d5cdb9d9db406527aa15ebd9d7d25ba4d5bed1b6",
+      "guid": "a2a4f35cfd6c1244c98e720be8d8b0f7"
+    },
+    {
+      "path": "Assets/ThirdParty/ForestPartyFonts/NotoSansSC/NotoSansSC-Regular.ttf",
+      "sha256": "cae49dfadc6b662a294a1197b1d8030122ed35e3c2e75f6e432576981407f3d7",
+      "guid": "335a8390d3a721a48a4c03c1000d7323"
+    },
+    {
+      "path": "Assets/ThirdParty/ForestPartyFonts/NotoSansSC/OFL.txt",
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+      "guid": "5ae1549c2eda3aa4aa82a09969c2636f"
+    },
+    {
+      "path": "Assets/ThirdParty/ForestPartyFonts/ZCOOLKuaiLe/OFL.txt",
+      "sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d",
+      "guid": "f577bdd9bd7bde542bc8999a6bd68e1e"
+    },
+    {
+      "path": "Assets/ThirdParty/ForestPartyFonts/ZCOOLKuaiLe/ZCOOLKuaiLe-Regular.ttf",
+      "sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d",
+      "guid": "81d5e312725c722488bd4babc76e50b2"
+    }
+  ],
+  "sourceAndRecordings": [
+    {
+      "path": "SourceArt/Ghost/ForestGhost.blend",
+      "bytes": 2762393,
+      "sha256": "92f233d960456ef6059ef4446ce89586a15c2a77f822ce019a263bd4a3e7734c"
+    },
+    {
+      "path": "SourceArt/Ghost/ForestPartyTitle.blend",
+      "bytes": 5982350,
+      "sha256": "e63d7dff5d31771e658b945a99951403684ad60c143d162b2f755f89a6236be5"
+    },
+    {
+      "path": "Docs/Videos/forest-intro.mp4",
+      "bytes": 4218123,
+      "sha256": "e6ed1391ad9e2d05c1e33813653fbf2d02969037c4ba869c32f19683ada232e6"
+    },
+    {
+      "path": "Docs/Videos/forest-intro.wav",
+      "bytes": 7917612,
+      "sha256": "d69b563de4889e814a1693868e1611f2aa62d2e66d39f6abb7d1f8757bfc319e"
+    },
+    {
+      "path": "Docs/Videos/forest-reunion.mp4",
+      "bytes": 2742951,
+      "sha256": "de8733cef953f0a7c413d8b513f937f6cf52e2ae8bf9c36d4b689e61ee887b7a"
+    },
+    {
+      "path": "Docs/Videos/forest-reunion.wav",
+      "bytes": 4829228,
+      "sha256": "063c00dc4ef260979c31387436f2f2c16c25b3dbb31e2246dc9dbede0e2f1ed6"
+    },
+    {
+      "path": "Docs/Videos/ghost-animation.mp4",
+      "bytes": 419207,
+      "sha256": "22160279606145cd56e7f7fe6727576e58cd6951731f11db91baca89b9b4a519"
+    },
+    {
+      "path": "Docs/Videos/ghost-animation.wav",
+      "bytes": 1740844,
+      "sha256": "a5ad2f62f823e57b4ebd892b1091081360977174b2cd785a5d10e5d847e5cee5"
+    }
+  ],
+  "buildDirectory": "Builds/WindowsDevelopment",
+  "reports": [
+    "Docs/森林派对操作与参数.md",
+    "Docs/森林派对架构与审查.md",
+    "Docs/森林派对验证结果.md",
+    "Docs/forest-test-results.xml",
+    "Docs/unity-reference-validation.json",
+    "Docs/windows-build-result.txt"
+  ]
+}

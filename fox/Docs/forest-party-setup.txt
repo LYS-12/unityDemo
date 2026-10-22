@@ -1,0 +1,13 @@
+Forest Party authoring, Unity 2022.3.62f3c1
+Connected escort point: (4.91, 0.00, -10.14) -> (2.55, 0.00, -8.76)
+Connected escort point: (11.30, 0.00, -17.80) -> (11.11, 0.00, -17.99)
+Connected escort point: (7.54, 0.00, 5.51) -> (4.96, 0.00, 7.20)
+Connected escort point: (13.00, 0.00, -15.30) -> (13.00, 0.00, -14.88)
+Connected escort point: (0.48, 0.00, 13.95) -> (-2.88, 0.00, 13.12)
+Connected escort point: (14.70, 0.00, -17.80) -> (14.85, 0.00, -17.95)
+Level 1: removed old FoxPlacementGoal; disabled 3 old Fox pickups; authored 3 NPCs, party and two Timelines.
+Scene 1: 411 trees, 45 falling-leaf zones, 3592 combined ground leaves, no colliders.
+Scene 2: 483 trees, 45 falling-leaf zones, 4291 combined ground leaves, no colliders.
+Scene 3: 488 trees, 45 falling-leaf zones, 4321 combined ground leaves, no colliders.
+Three ghost players; title video bindings removed; independent rock enemies retained.
+Authoring completed.

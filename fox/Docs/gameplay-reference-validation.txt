@@ -1,0 +1,5 @@
+Errors: 0
+Fox anchor 0: connected samples=49
+Fox anchor 1: connected samples=49
+Fox anchor 2: connected samples=41
+Three gameplay scenes configured; only GameScene1 has a spawner. Enemy mesh/controller/clips independent.

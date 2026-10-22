@@ -1,0 +1,1 @@
+Warning: Assets\ThirdParty\LitJson\JsonWriter.cs(387,21): warning CS3021: 'JsonWriter.Write(ulong)' does not need a CLSCompliant attribute because the assembly does not have a CLSCompliant attribute

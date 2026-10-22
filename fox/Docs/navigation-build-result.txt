@@ -1,0 +1,3 @@
+Sources: 586
+Bounds: Center: (8.57, 0.00, -3.69), Extents: (23.09, 10.00, 32.64)
+Player navigation position: (16.66, 0.00, -21.34)

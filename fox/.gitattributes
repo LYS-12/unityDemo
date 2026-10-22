@@ -1,0 +1,5 @@
+# Large Unity source assets stored with Git LFS.
+"Assets/ThirdParty/像素幸存者资源包1.1/像素幸存者资源包/字体/heiti SDF.asset" filter=lfs diff=lfs merge=lfs -text
+Assets/_Project/Art/Models/Environment/tree.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/_Project/Art/Textures/Environment/skintree.001_Bake1_PBR_Normal.exr filter=lfs diff=lfs merge=lfs -text
+"Assets/_Project/Videos/最终视频.mp4" filter=lfs diff=lfs merge=lfs -text

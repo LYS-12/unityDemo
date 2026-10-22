@@ -1,0 +1,1 @@
+Agent moved 6.728029 metres; path status=PathComplete; path corners=6
