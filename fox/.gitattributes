@@ -1,3 +1,5 @@
+# Preserve original Unity asset bytes and line endings.
+* -text
 # Large Unity source assets stored with Git LFS.
 "Assets/ThirdParty/像素幸存者资源包1.1/像素幸存者资源包/字体/heiti SDF.asset" filter=lfs diff=lfs merge=lfs -text
 Assets/_Project/Art/Models/Environment/tree.fbx filter=lfs diff=lfs merge=lfs -text
